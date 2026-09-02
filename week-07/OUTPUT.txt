@@ -1,0 +1,5 @@
+Ignored invalid session: 0 minutes
+Plan: Asha's starter plan
+Sessions completed: 3
+Minutes recorded: 100
+Goal remaining: 50
