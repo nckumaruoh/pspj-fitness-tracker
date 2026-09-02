@@ -1,0 +1,5 @@
+=== Personal Fitness & Workout Tracker ===
+Member: Asha
+Daily goal: 45 minutes
+Completed today: 30 minutes
+Next: calculate progress and rewards in Week 2.
