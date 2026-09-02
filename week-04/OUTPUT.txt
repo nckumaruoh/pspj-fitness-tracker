@@ -1,0 +1,9 @@
+=== Fitness Tracker Menu ===
+1. Record workout
+2. Review daily goal
+3. Exit
+Recorded: Cardio (35 minutes)
+Goal status: 10 minutes remaining.
+Recorded: Strength (20 minutes)
+Goal status: 25 minutes remaining.
+Sessions processed: 2
