@@ -1,0 +1,6 @@
+=== Final Fitness Analytics ===
+Members tracked: 3
+Total minutes: 265
+Average minutes: 88.3
+Top member: Ravi (110 minutes)
+Goal achievers: Asha, Ravi

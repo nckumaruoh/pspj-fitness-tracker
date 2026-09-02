@@ -40,7 +40,7 @@ The Week 11 program writes and re-reads `fitness-sessions.csv` from its own fold
 ## Quality checks
 
 - Each weekly Java artifact compiles with Java 21.
-- Each program has a documented expected console trace.
+- Each program has a documented expected console trace and an exact OUTPUT.txt record.
 - Week 7 explicitly tests a zero-minute session edge case.
 - Week 10 explicitly tests numeric and non-numeric invalid input.
 - Week 11 verifies that the stored CSV data can be reloaded and totalled.
